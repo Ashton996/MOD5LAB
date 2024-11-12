@@ -1,0 +1,27 @@
+h2{
+    margin: 20px;
+    padding:15px;
+    position:relative;
+}
+li{
+    background-color: green;
+}
+#AOTLIST{
+    list-style-type: lower-roman;
+    background-color: bisque;
+}
+#a{
+    background-color: bisque;
+}
+#TTEN{
+    background-color: bisque;
+}
+#THEME{
+    background-color: bisque;
+}
+dt,dd{
+background-color: green;
+}
+#Toilet{
+    background-color: bisque;
+}
